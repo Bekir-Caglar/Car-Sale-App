@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408482637446",
+    "project_id": "yellow-app-83c10",
+    "storage_bucket": "yellow-app-83c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408482637446:android:3afb66182d2f4e3a299307",
+        "android_client_info": {
+          "package_name": "com.bekircaglar.yellowapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408482637446-jim41l6m4dgjlevhq04j5qrhfdn5op2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20p4VsuPVLVV3Hx42VqbXyuL5AaWHw3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408482637446-jim41l6m4dgjlevhq04j5qrhfdn5op2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
